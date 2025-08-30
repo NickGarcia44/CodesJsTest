@@ -7,4 +7,4 @@ function spinWords(string){
     .join(' ');
 }
 
-console.log(spinWords("macaco maco manaco"))
+console.log(spinWords("testes test teste"))
