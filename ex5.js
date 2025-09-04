@@ -6,5 +6,5 @@ class User {
     }
 }
 
-const novoUser = new User('Nicollas', 'n@n.com', 'Desenvolvedor Senior')
-console.log(novoUser)
+const newUser = new User('Nicollas', 'n@n.com', 'Developer Senior')
+console.log(newUser)
